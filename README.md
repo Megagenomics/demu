@@ -21,4 +21,12 @@ make<br>
 
 # install
 sudo make install<br> 
-```
+
+
+A sample sheet example:<br> 
+
+title, index1, index2<br> 
+file1, ATTCAGAA,ACACTAC<br> 
+file2, ATTACT,AACACA<br> 
+file3, GAGATTCC,CAGATAA<br> 
+file4, CGCTCATT,GCAACAG<br> 
